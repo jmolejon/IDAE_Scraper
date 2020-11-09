@@ -27,11 +27,11 @@ Este archivo es necesario para la ejecución del script por Selenium pero solo f
 
 El script se debe ejecutar de la siguiente manera:
 ```
-python3 IDAE_Scraper.py --tipo fullDB
+python3 IDAE_Scraper.py --tipo "fullDB"
 ```
 
 Donde **tipo** hace referencia a si se quiere descargar la base de datos entera (60 minutos aproximadamente a dia de hoy) o solo se quiere descargar las 100 primeras fichas para hacer un test.
-Los posibles valores que puede tomar **tipo** son **test** o **fullDB**
+Los posibles valores que puede tomar **tipo** son **"test"** o **"fullDB"**
 Una vez recopilada toda la información por el script, esta sera guardada en la carpeta **csv/** en un archivo de tipo CSV.
 
 En este dataset se podra encontrar la siguiente información:
