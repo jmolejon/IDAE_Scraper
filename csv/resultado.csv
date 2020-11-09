@@ -1,0 +1,101 @@
+ID en el IDAE;Nombre del vehículo;Segmento comercial;Motorizacion;Cilindrada;Tipo de cambio;MTMA;Potencia en CV;Potencia termica;Potencia Electrica;Autonomia Electrica;Consumo NEDC;Consumo WLTP;Emisiones NEDC;Emisiones WLTP;Dimensiones (largo x ancho x alto);Nº de plazas maximas;Clasificacion por consumo relativo
+540117;Abarth 595 ABARTH 595 1.4 16v T-JET 107 KW X145 CVX E6D;Minis;Gasolina;1.368 cm3;M;1.045;145 cv;107 kw;0 kw;0 kms;6,65;7,30;152 g CO2/km;164 g CO2/km;3.660 x 1.627 x 1.485 mm;4;G
+540122;Abarth 595 ABARTH 595 COMPETIZIONE 1.4 16v T-JET 132 KW X180 CVX E6D;Minis;Gasolina;1.368 cm3;M;1.065;179 cv;132 kw;0 kw;0 kms;6,75;7,75;154 g CO2/km;172 g CO2/km;3.660 x 1.627 x 1.485 mm;4;G
+540123;Abarth 595 ABARTH 595 ESSEESSE 1.4 16v T-JET 132 KW X180 CVX E6D;Minis;Gasolina;1.368 cm3;M;1.065;179 cv;132 kw;0 kw;0 kms;6,75;7,75;154 g CO2/km;172 g CO2/km;3.660 x 1.627 x 1.485 mm;4;G
+540119;Abarth 595 ABARTH 595 MONSTER ENERGY YAMAHA 1.4 16v T-JET 121 kW X165 CVX E6D;Minis;Gasolina;1.368 cm3;M;1.065;164 cv;121 kw;0 kw;0 kms;6,65;7,45;152 g CO2/km;167 g CO2/km;3.660 x 1.627 x 1.485 mm;4;G
+540118;Abarth 595 ABARTH 595 PISTA 1.4 16v T-JET 121 kW X165 CVX E6D;Minis;Gasolina;1.368 cm3;M;1.065;164 cv;121 kw;0 kw;0 kms;6,65;7,45;152 g CO2/km;167 g CO2/km;3.660 x 1.627 x 1.485 mm;4;G
+540121;Abarth 595 ABARTH 595 SCORPIONEORO 1.4 16v T-JET 121 kW X165 CVX E6D;Minis;Gasolina;1.368 cm3;M;1.065;164 cv;121 kw;0 kw;0 kms;6,65;7,30;151 g CO2/km;164 g CO2/km;3.660 x 1.627 x 1.485 mm;4;G
+540120;Abarth 595 ABARTH 595 TURISMO 1.4 16v T-JET 121 kW X165 CVX E6D;Minis;Gasolina;1.368 cm3;M;1.065;164 cv;121 kw;0 kw;0 kms;6,65;7,30;151 g CO2/km;164 g CO2/km;3.660 x 1.627 x 1.485 mm;4;G
+540124;Abarth 595 ABARTH 595C 1.4 16v T-JET 107 KW X145 CVX E6D;Minis;Gasolina;1.368 cm3;M;1.075;145 cv;107 kw;0 kw;0 kms;6,65;7,40;153 g CO2/km;166 g CO2/km;3.660 x 1.627 x 1.485 mm;4;G
+540129;Abarth 595 ABARTH 595C COMPETIZIONE 1.4 16v T-JET 132 KW X180 CVX E6D;Minis;Gasolina;1.368 cm3;M;1.090;179 cv;132 kw;0 kw;0 kms;6,75;7,75;154 g CO2/km;172 g CO2/km;3.660 x 1.627 x 1.485 mm;4;G
+540130;Abarth 595 ABARTH 595C ESSEESSE 1.4 16v T-JET 132 KW X180 CVX E6D;Minis;Gasolina;1.368 cm3;M;1.090;179 cv;132 kw;0 kw;0 kms;6,75;7,75;154 g CO2/km;172 g CO2/km;3.660 x 1.627 x 1.485 mm;4;G
+540126;Abarth 595 ABARTH 595C MONSTER ENERGY YAMAHA 1.4 16v T-JET 121 kW X165 CVX E6D;Minis;Gasolina;1.368 cm3;M;1.090;164 cv;121 kw;0 kw;0 kms;6,70;7,70;153 g CO2/km;171 g CO2/km;3.660 x 1.627 x 1.485 mm;4;G
+540125;Abarth 595 ABARTH 595C PISTA 1.4 16v T-JET 121 kW X165 CVX E6D;Minis;Gasolina;1.368 cm3;M;1.090;164 cv;121 kw;0 kw;0 kms;6,70;7,55;153 g CO2/km;171 g CO2/km;3.660 x 1.627 x 1.485 mm;4;G
+540128;Abarth 595 ABARTH 595C SCORPIONEORO 1.4 16v T-JET 121 KW X165 CVX E6D;Minis;Gasolina;1.368 cm3;M;1.090;164 cv;121 kw;0 kw;0 kms;6,65;7,55;149 g CO2/km;169 g CO2/km;3.660 x 1.627 x 1.485 mm;4;G
+540127;Abarth 595 ABARTH 595C TURISMO 1.4 16v T-JET 121 KW X165 CVX E6D;Minis;Gasolina;1.368 cm3;M;1.090;164 cv;121 kw;0 kw;0 kms;6,65;7,70;149 g CO2/km;169 g CO2/km;3.660 x 1.627 x 1.485 mm;4;G
+540116;Abarth 595 ABARTH 695 70º ANIVERSARIO 1.4 16v T-JET 132 KW X180 CVX E6D;Minis;Gasolina;1.368 cm3;M;1.065;179 cv;132 kw;0 kw;0 kms;6,75;7,75;154 g CO2/km;172 g CO2/km;3.660 x 1.627 x 1.485 mm;4;G
+352308;Aixam eAIXAM SENSATION City Pack;Cuadriciclo de Pasajeros;Eléctricos puros;0 cm3;A;710;0 cv;6 kw;6 kw;NA;NA;NA;0 g CO2/km;0 g CO2/km;3.000 x 1.500 x 1.500 mm;2;S
+352309;Aixam eAIXAM SENSATION City Premium;Cuadriciclo de Pasajeros;Eléctricos puros;0 cm3;A;710;0 cv;6 kw;6 kw;NA;NA;NA;0 g CO2/km;0 g CO2/km;3.000 x 1.500 x 1.500 mm;2;S
+352311;Aixam eAIXAM SENSATION Coupé GTI;Cuadriciclo de Pasajeros;Eléctricos puros;0 cm3;A;710;0 cv;6 kw;6 kw;NA;NA;NA;0 g CO2/km;0 g CO2/km;3.000 x 1.500 x 1.500 mm;2;S
+352310;Aixam eAIXAM SENSATION Coupé Premium;Cuadriciclo de Pasajeros;Eléctricos puros;0 cm3;A;710;0 cv;6 kw;6 kw;NA;NA;NA;0 g CO2/km;0 g CO2/km;3.000 x 1.500 x 1.500 mm;2;S
+352306;Aixam eAixam VISION City Pack;Cuadriciclo de Pasajeros;Eléctricos puros;0 cm3;A;710;0 cv;4 kw;4 kw;NA;NA;NA;0 g CO2/km;0 g CO2/km;2.760 x 1.500 x 1.456 mm;2;S
+352307;Aixam eAixam VISION Coupé Premium;Cuadriciclo de Pasajeros;Eléctricos puros;0 cm3;A;710;0 cv;4 kw;4 kw;NA;NA;NA;0 g CO2/km;0 g CO2/km;3.040 x 1.500 x 1.456 mm;2;S
+28139;Alfa Romeo 159 1.8 TBi 200CV Sport Plus;Berlinas-Familiares Grandes;Gasolina;1.742 cm3;M;1.990;200 cv;147 kw;0 kw;741 kms;8,10;0,00;189 g CO2/km;0 g CO2/km;4.660 x 1.828 x 1.417 mm;5;D
+28136;Alfa Romeo 159 1.9 JTDM 8V 6M 120CV Sport;Berlinas-Familiares Grandes;Gasóleo;1.910 cm3;M;1.980;120 cv;88 kw;0 kw;1.154 kms;5,20;0,00;138 g CO2/km;0 g CO2/km;4.660 x 1.828 x 1.417 mm;5;C
+28137;Alfa Romeo 159 1.9 JTDM 8V 6M 120CV SW Sport;Berlinas-Familiares Grandes;Gasóleo;1.910 cm3;M;2.030;120 cv;88 kw;0 kw;1.132 kms;5,30;0,00;140 g CO2/km;0 g CO2/km;4.660 x 1.828 x 1.422 mm;5;C
+24976;Alfa Romeo 159 2.0 JTDM  136CV Sport Plus;Berlinas-Familiares Grandes;Gasóleo;1.956 cm3;M;1.990;185 cv;136 kw;0 kw;1.176 kms;5,10;0,00;134 g CO2/km;0 g CO2/km;4.660 x 1.828 x 1.417 mm;5;C
+24980;Alfa Romeo 159 2.0 JTDM  136CV SW Sport Plus;Berlinas-Familiares Grandes;Gasóleo;1.956 cm3;M;2.040;185 cv;136 kw;0 kw;1.154 kms;5,20;0,00;137 g CO2/km;0 g CO2/km;4.660 x 1.828 x 1.417 mm;5;C
+28138;Alfa Romeo 159 2.0 JTDM 170CV Sport ECO;Berlinas-Familiares Grandes;Gasóleo;1.956 cm3;M;1.990;170 cv;125 kw;0 kw;1.176 kms;5,10;0,00;136 g CO2/km;0 g CO2/km;4.660 x 1.828 x 1.417 mm;5;C
+24977;Alfa Romeo 159 2.0 JTDM 170CV Sport Plus;Berlinas-Familiares Grandes;Gasóleo;1.956 cm3;M;1.990;231 cv;170 kw;0 kw;1.111 kms;5,40;0,00;142 g CO2/km;0 g CO2/km;4.660 x 1.828 x 1.417 mm;5;C
+24978;Alfa Romeo 159 2.0 JTDM 170CV Sport Plus ECO;Berlinas-Familiares Grandes;Gasóleo;1.956 cm3;M;1.990;231 cv;170 kw;0 kw;1.176 kms;5,10;0,00;136 g CO2/km;0 g CO2/km;4.660 x 1.828 x 1.417 mm;5;C
+24981;Alfa Romeo 159 2.0 JTDM 170CV SW Sport Plus;Berlinas-Familiares Grandes;Gasóleo;1.956 cm3;M;2.040;231 cv;170 kw;0 kw;1.091 kms;5,50;0,00;145 g CO2/km;0 g CO2/km;4.660 x 1.828 x 1.417 mm;5;C
+24982;Alfa Romeo 159 2.0 JTDM 170CV SW Sport Plus ECO;Berlinas-Familiares Grandes;Gasóleo;1.956 cm3;M;2.040;231 cv;170 kw;0 kw;1.154 kms;5,20;0,00;139 g CO2/km;0 g CO2/km;4.660 x 1.828 x 1.417 mm;5;C
+24975;Alfa Romeo 159 2.0 JTDM 6M 136CV Sport;Berlinas-Familiares Grandes;Gasóleo;1.956 cm3;M;1.990;185 cv;136 kw;0 kw;1.176 kms;5,10;0,00;134 g CO2/km;0 g CO2/km;4.660 x 1.828 x 1.417 mm;5;C
+24979;Alfa Romeo 159 2.0 JTDM 6M 136CV SW Sport;Berlinas-Familiares Grandes;Gasóleo;1.956 cm3;M;2.040;185 cv;136 kw;0 kw;1.154 kms;5,20;0,00;137 g CO2/km;0 g CO2/km;4.660 x 1.828 x 1.417 mm;5;C
+277364;Alfa Romeo 4C Spider 1.7 Tbi 240CV TCT;Deportivo;Gasolina;1.742 cm3;A;940;240 cv;177 kw;0 kw;0 kms;5,10;0,00;161 g CO2/km;0 g CO2/km;3.989 x 1.864 x 1.183 mm;2;B
+28143;Alfa Romeo Brera 2.0 JTDM  170 CV;Deportivo;Gasóleo;1.956 cm3;M;1.980;170 cv;125 kw;0 kw;1.296 kms;5,40;0,00;142 g CO2/km;0 g CO2/km;4.410 x 1.830 x 1.341 mm;4;D
+28142;Alfa Romeo Brera 2.4 JTDM  210 CV;Deportivo;Gasóleo;2.387 cm3;M;2.075;209 cv;154 kw;0 kw;1.029 kms;6,80;0,00;179 g CO2/km;0 g CO2/km;4.410 x 1.830 x 1.341 mm;4;F
+277384;Alfa Romeo Giulia 2.0 280 CV AT8 AWD;Berlinas-Familiares Medios;Gasolina;1.195 cm3;A;1.530;280 cv;206 kw;0 kw;0 kms;6,40;0,00;148 g CO2/km;0 g CO2/km;4.643 x 2.024 x 1.436 mm;5;A
+253405;Alfa Romeo Giulia 2.2 turbo diésel 136 CV Giulia;Berlinas-Familiares Grandes;Gasóleo;2.143 cm3;M;1.600;137 cv;101 kw;0 kw;1.238 kms;4,20;0,00;109 g CO2/km;0 g CO2/km;4.643 x 1.860 x 1.436 mm;5;A
+253406;Alfa Romeo Giulia 2.2 turbo diésel 150 CV Giulia;Berlinas-Familiares Grandes;Gasóleo;2.143 cm3;M;1.600;149 cv;110 kw;0 kw;1.238 kms;4,20;0,00;109 g CO2/km;0 g CO2/km;4.643 x 1.860 x 1.436 mm;5;A
+253407;Alfa Romeo Giulia 2.2 turbo diésel 150 CV Giulia AT;Berlinas-Familiares Grandes;Gasóleo;2.143 cm3;A;1.600;149 cv;110 kw;0 kw;1.238 kms;4,20;0,00;109 g CO2/km;0 g CO2/km;4.643 x 1.860 x 1.436 mm;5;A
+253408;Alfa Romeo Giulia 2.2 turbo diésel 150 CV Super;Berlinas-Familiares Grandes;Gasóleo;2.143 cm3;M;1.600;149 cv;110 kw;0 kw;1.238 kms;4,20;0,00;109 g CO2/km;0 g CO2/km;4.643 x 1.860 x 1.436 mm;5;A
+253409;Alfa Romeo Giulia 2.2 turbo diésel 150 CV Super AT;Berlinas-Familiares Grandes;Gasóleo;2.143 cm3;A;1.600;149 cv;110 kw;0 kw;1.238 kms;4,20;0,00;109 g CO2/km;0 g CO2/km;4.643 x 1.860 x 1.436 mm;5;A
+253410;Alfa Romeo Giulia 2.2 turbo diésel 180 CV Super;Berlinas-Familiares Grandes;Gasóleo;2.143 cm3;M;1.600;179 cv;132 kw;0 kw;1.238 kms;4,20;0,00;109 g CO2/km;0 g CO2/km;4.643 x 1.860 x 1.436 mm;5;A
+253411;Alfa Romeo Giulia 2.2 turbo diésel 180 CV Super AT;Berlinas-Familiares Grandes;Gasóleo;2.143 cm3;A;1.600;179 cv;132 kw;0 kw;1.238 kms;4,20;0,00;109 g CO2/km;0 g CO2/km;4.643 x 1.860 x 1.436 mm;5;A
+253412;Alfa Romeo Giulia 2.9 V6 Biturbo 510 CV Quadrifoglio;Berlinas-Familiares Grandes;Gasolina;2.891 cm3;M;2.100;510 cv;375 kw;0 kw;682 kms;8,50;0,00;198 g CO2/km;0 g CO2/km;4.639 x 1.873 x 1.426 mm;5;E
+33946;Alfa Romeo GIULIETTA 1.4 TB 105CV PROGRESSION;Berlinas-Familiares Medios;Gasolina;1.368 cm3;M;1.780;105 cv;77 kw;0 kw;0 kms;6,40;0,00;149 g CO2/km;0 g CO2/km;4.351 x 1.798 x 1.465 mm;5;C
+47682;Alfa Romeo GIULIETTA 1.4 TB 105CV PROGRESSION Serie-1;Berlinas-Familiares Medios;Gasolina;1.368 cm3;M;1.780;105 cv;77 kw;0 kw;0 kms;6,40;0,00;148 g CO2/km;0 g CO2/km;4.351 x 1.798 x 1.465 mm;5;C
+48412;Alfa Romeo GIULIETTA 1.4 TB 105CV PROGRESSION Serie-1 M1-AF;Berlinas-Familiares Medios;Gasolina;1.368 cm3;M;1.780;105 cv;77 kw;0 kw;0 kms;6,40;0,00;148 g CO2/km;0 g CO2/km;4.351 x 1.798 x 1.465 mm;5;C
+437512;Alfa Romeo GIULIETTA 1.4 TB 120cv  SUPER;Pequeños;Gasolina;1.368 cm3;M;1.280;120 cv;88 kw;0 kw;0 kms;7,20;7,80;164 g CO2/km;176 g CO2/km;4.351 x 1.798 x 1.465 mm;5;D
+437515;Alfa Romeo GIULIETTA 1.4 TB 120cv B-TECH;Pequeños;Gasolina;1.368 cm3;M;1.280;120 cv;88 kw;0 kw;0 kms;7,20;7,80;164 g CO2/km;176 g CO2/km;4.351 x 1.798 x 1.465 mm;5;D
+21937;Alfa Romeo GIULIETTA 1.4 TB 120CV DISTINCTIVE;Berlinas-Familiares Medios;Gasolina;1.368 cm3;M;1.780;120 cv;88 kw;0 kw;938 kms;6,40;0,00;149 g CO2/km;0 g CO2/km;4.351 x 1.798 x 1.465 mm;5;C
+46122;Alfa Romeo GIULIETTA 1.4 TB 120CV DISTINCTIVE Serie-1;Berlinas-Familiares Medios;Gasolina;1.368 cm3;M;1.780;120 cv;88 kw;0 kw;0 kms;6,40;0,00;148 g CO2/km;0 g CO2/km;4.351 x 1.798 x 1.465 mm;5;C
+48411;Alfa Romeo GIULIETTA 1.4 TB 120CV DISTINCTIVE Serie-1 M1-AF;Berlinas-Familiares Medios;Gasolina;1.368 cm3;M;1.780;120 cv;88 kw;0 kw;0 kms;6,40;0,00;148 g CO2/km;0 g CO2/km;4.351 x 1.798 x 1.465 mm;5;C
+437506;Alfa Romeo GIULIETTA 1.4 TB 120cv GIULIETTA;Pequeños;Gasolina;1.368 cm3;M;1.280;120 cv;88 kw;0 kw;0 kms;7,20;7,80;164 g CO2/km;175 g CO2/km;4.351 x 1.798 x 1.465 mm;5;D
+24974;Alfa Romeo GIULIETTA 1.4 TB 120CV GLP DISTINCTIVE;Berlinas-Familiares Medios;Gases licuados del petróleo XGLPX;1.368 cm3;M;1.780;120 cv;88 kw;0 kw;938 kms;8,60;0,00;134 g CO2/km;0 g CO2/km;4.351 x 1.798 x 1.465 mm;5;S
+50175;Alfa Romeo GIULIETTA 1.4 TB 120CV GLP Serie-1;Berlinas-Familiares Medios;Gases licuados del petróleo XGLPX;1.368 cm3;M;1.800;120 cv;88 kw;0 kw;0 kms;15,51;0,00;134 g CO2/km;0 g CO2/km;4.351 x 1.798 x 1.465 mm;5;S
+21936;Alfa Romeo GIULIETTA 1.4 TB 120CV PROGRESSION;Berlinas-Familiares Medios;Gasolina;1.368 cm3;M;1.780;120 cv;88 kw;0 kw;938 kms;6,40;0,00;149 g CO2/km;0 g CO2/km;4.351 x 1.798 x 1.465 mm;5;C
+437509;Alfa Romeo GIULIETTA 1.4 TB 120cv SPORT;Pequeños;Gasolina;1.368 cm3;M;1.280;120 cv;88 kw;0 kw;0 kms;7,20;7,90;164 g CO2/km;176 g CO2/km;4.351 x 1.798 x 1.465 mm;5;D
+187748;Alfa Romeo GIULIETTA 1.4 TB M-Air 150CV SPRINT;Berlinas-Familiares Medios;Gasolina;1.368 cm3;M;1.820;140 cv;103 kw;0 kw;0 kms;5,70;0,00;131 g CO2/km;0 g CO2/km;4.351 x 1.798 x 1.465 mm;5;B
+21938;Alfa Romeo GIULIETTA 1.4 TB M-Air 170CV DISTINCTIVE;Berlinas-Familiares Medios;Gasolina;1.368 cm3;M;1.790;170 cv;125 kw;0 kw;1.034 kms;5,80;0,00;134 g CO2/km;0 g CO2/km;4.351 x 1.798 x 1.465 mm;5;B
+46121;Alfa Romeo GIULIETTA 1.4 TB M-Air 170CV DISTINCTIVE Serie-1;Berlinas-Familiares Medios;Gasolina;1.368 cm3;M;1.790;170 cv;125 kw;0 kw;0 kms;5,70;0,00;131 g CO2/km;0 g CO2/km;4.351 x 1.798 x 1.465 mm;5;B
+48410;Alfa Romeo GIULIETTA 1.4 TB M-Air 170CV DISTINCTIVE Serie-1 M1-AF;Berlinas-Familiares Medios;Gasolina;1.368 cm3;M;1.790;170 cv;125 kw;0 kw;0 kms;5,70;0,00;131 g CO2/km;0 g CO2/km;4.351 x 1.798 x 1.465 mm;5;B
+21939;Alfa Romeo GIULIETTA 1.4 TB M-Air 170CV TCT DISTINCTIVE;Berlinas-Familiares Medios;Gasolina;1.368 cm3;A;1.810;170 cv;125 kw;0 kw;1.154 kms;5,20;0,00;121 g CO2/km;0 g CO2/km;4.351 x 1.798 x 1.465 mm;5;A
+47683;Alfa Romeo GIULIETTA 1.4 TB M-Air 170CV TCT DISTINCTIVE Serie-1;Berlinas-Familiares Medios;Gasolina;1.368 cm3;M;1.800;170 cv;125 kw;0 kw;0 kms;5,10;0,00;119 g CO2/km;0 g CO2/km;4.351 x 1.798 x 1.465 mm;5;A
+48413;Alfa Romeo GIULIETTA 1.4 TB M-Air 170CV TCT DISTINCTIVE Serie-1 M1-AF;Berlinas-Familiares Medios;Gasolina;1.368 cm3;M;1.800;170 cv;125 kw;0 kw;0 kms;5,10;0,00;119 g CO2/km;0 g CO2/km;4.351 x 1.798 x 1.465 mm;5;A
+187749;Alfa Romeo GIULIETTA 1.4 TB M-Air 170CV TCT SPRINT;Berlinas-Familiares Medios;Gasolina;1.368 cm3;A;1.820;231 cv;170 kw;0 kw;0 kms;5,10;0,00;119 g CO2/km;0 g CO2/km;4.351 x 1.798 x 1.465 mm;5;A
+437516;Alfa Romeo GIULIETTA 1.6 JTD 120cv B-TECH;Pequeños;Gasóleo;1.598 cm3;M;1.390;120 cv;88 kw;0 kw;0 kms;4,70;5,70;123 g CO2/km;147 g CO2/km;4.351 x 1.798 x 1.465 mm;5;C
+437507;Alfa Romeo GIULIETTA 1.6 JTD 120cv GIULIETTA;Pequeños;Gasóleo;1.598 cm3;M;1.390;120 cv;88 kw;0 kw;0 kms;4,70;5,70;123 g CO2/km;147 g CO2/km;4.351 x 1.798 x 1.465 mm;5;C
+437510;Alfa Romeo GIULIETTA 1.6 JTD 120cv SPORT;Pequeños;Gasóleo;1.598 cm3;M;1.390;120 cv;88 kw;0 kw;0 kms;4,70;5,70;123 g CO2/km;148 g CO2/km;4.351 x 1.798 x 1.465 mm;5;C
+437513;Alfa Romeo GIULIETTA 1.6 JTD 120cv SUPER;Pequeños;Gasóleo;1.598 cm3;M;1.390;120 cv;88 kw;0 kw;0 kms;4,70;5,70;123 g CO2/km;147 g CO2/km;4.351 x 1.798 x 1.465 mm;5;C
+437508;Alfa Romeo GIULIETTA 1.6 JTD 120cv TCT GIULIETTA;Pequeños;Gasóleo;1.598 cm3;A;1.400;120 cv;88 kw;0 kw;0 kms;4,70;5,70;125 g CO2/km;151 g CO2/km;4.351 x 1.798 x 1.465 mm;5;C
+437511;Alfa Romeo GIULIETTA 1.6 JTD 120cv TCT SPORT;Pequeños;Gasóleo;1.598 cm3;A;1.400;120 cv;88 kw;0 kw;0 kms;4,70;5,80;125 g CO2/km;151 g CO2/km;4.351 x 1.798 x 1.465 mm;5;C
+437514;Alfa Romeo GIULIETTA 1.6 JTD 120cv TCT SUPER;Pequeños;Gasóleo;1.598 cm3;A;1.400;120 cv;88 kw;0 kw;0 kms;4,70;5,70;125 g CO2/km;151 g CO2/km;4.351 x 1.798 x 1.465 mm;5;C
+46120;Alfa Romeo GIULIETTA 1.6 JTDM 105CV BUSINESS PROGRESION Serie-1;Berlinas-Familiares Medios;Gasóleo;1.598 cm3;M;1.810;105 cv;77 kw;0 kw;0 kms;4,00;0,00;104 g CO2/km;0 g CO2/km;4.351 x 1.798 x 1.465 mm;5;B
+48409;Alfa Romeo GIULIETTA 1.6 JTDM 105CV BUSINESS PROGRESION Serie-1 M1-AF;Berlinas-Familiares Medios;Gasóleo;1.598 cm3;M;1.810;105 cv;77 kw;0 kw;0 kms;4,00;0,00;104 g CO2/km;0 g CO2/km;4.351 x 1.798 x 1.465 mm;5;B
+21942;Alfa Romeo GIULIETTA 1.6 JTDM 105CV DISCTINTIVE;Berlinas-Familiares Medios;Gasóleo;1.598 cm3;M;1.810;105 cv;77 kw;0 kw;1.364 kms;4,40;0,00;114 g CO2/km;0 g CO2/km;4.351 x 1.798 x 1.465 mm;5;B
+46119;Alfa Romeo GIULIETTA 1.6 JTDM 105CV DISTINCTIVE Serie-1;Berlinas-Familiares Medios;Gasóleo;1.598 cm3;M;1.810;105 cv;77 kw;0 kw;0 kms;4,00;0,00;104 g CO2/km;0 g CO2/km;4.351 x 1.798 x 1.465 mm;5;B
+48408;Alfa Romeo GIULIETTA 1.6 JTDM 105CV DISTINCTIVE Serie-1 M1-AF;Berlinas-Familiares Medios;Gasóleo;1.598 cm3;M;1.810;105 cv;77 kw;0 kw;0 kms;4,00;0,00;104 g CO2/km;0 g CO2/km;4.351 x 1.798 x 1.465 mm;5;B
+21941;Alfa Romeo GIULIETTA 1.6 JTDM 105CV PROGRESION;Berlinas-Familiares Medios;Gasóleo;1.598 cm3;M;1.810;105 cv;77 kw;0 kw;1.364 kms;4,40;0,00;114 g CO2/km;0 g CO2/km;4.351 x 1.798 x 1.465 mm;5;B
+46118;Alfa Romeo GIULIETTA 1.6 JTDM 105CV PROGRESION Serie-1;Berlinas-Familiares Medios;Gasóleo;1.598 cm3;M;1.810;105 cv;77 kw;0 kw;0 kms;4,00;0,00;104 g CO2/km;0 g CO2/km;4.351 x 1.798 x 1.465 mm;5;B
+48407;Alfa Romeo GIULIETTA 1.6 JTDM 105CV PROGRESION Serie-1 M1-AF;Berlinas-Familiares Medios;Gasóleo;1.598 cm3;M;1.810;105 cv;77 kw;0 kw;0 kms;4,00;0,00;104 g CO2/km;0 g CO2/km;4.351 x 1.798 x 1.465 mm;5;B
+187750;Alfa Romeo GIULIETTA 1.6 JTDM 105CV SPRINT;Berlinas-Familiares Medios;Gasóleo;1.598 cm3;M;1.820;143 cv;105 kw;0 kw;0 kms;4,00;0,00;104 g CO2/km;0 g CO2/km;4.351 x 1.798 x 1.465 mm;5;B
+41839;Alfa Romeo GIULIETTA 1.6 JTDM 105CV VELOCE;Berlinas-Familiares Medios;Gasóleo;1.598 cm3;M;1.810;105 cv;77 kw;0 kw;0 kms;4,40;0,00;114 g CO2/km;0 g CO2/km;4.351 x 1.798 x 1.465 mm;5;B
+48721;Alfa Romeo GIULIETTA 1.6 JTDM 105CV VELOCE AF;Berlinas-Familiares Medios;Gasóleo;1.598 cm3;M;1.810;105 cv;77 kw;0 kw;0 kms;4,40;0,00;114 g CO2/km;0 g CO2/km;4.351 x 1.798 x 1.465 mm;5;B
+238064;Alfa Romeo GIULIETTA 1.6 JTDM 120CV Collezione E6b;Berlinas-Familiares Medios;Gasóleo;1.598 cm3;M;1.815;120 cv;88 kw;0 kw;0 kms;3,90;0,00;103 g CO2/km;0 g CO2/km;4.351 x 1.798 x 1.465 mm;5;A
+238065;Alfa Romeo GIULIETTA 1.6 JTDM 120CV Collezione M1-AF E6b;Berlinas-Familiares Medios;Gasóleo;1.598 cm3;M;1.815;120 cv;88 kw;0 kw;0 kms;3,90;0,00;103 g CO2/km;0 g CO2/km;4.351 x 1.798 x 1.465 mm;5;A
+238060;Alfa Romeo GIULIETTA 1.6 JTDM 120CV Distinctive E6b;Berlinas-Familiares Medios;Gasóleo;1.598 cm3;M;1.815;120 cv;88 kw;0 kw;0 kms;3,90;0,00;103 g CO2/km;0 g CO2/km;4.351 x 1.798 x 1.465 mm;5;A
+238061;Alfa Romeo GIULIETTA 1.6 JTDM 120CV Distinctive M1-AF E6b;Berlinas-Familiares Medios;Gasóleo;1.598 cm3;M;1.815;120 cv;88 kw;0 kw;0 kms;3,90;0,00;103 g CO2/km;0 g CO2/km;4.351 x 1.798 x 1.465 mm;5;A
+238058;Alfa Romeo GIULIETTA 1.6 JTDM 120CV Progression E6b;Berlinas-Familiares Medios;Gasóleo;1.598 cm3;M;1.815;120 cv;88 kw;0 kw;0 kms;3,90;0,00;103 g CO2/km;0 g CO2/km;4.351 x 1.798 x 1.465 mm;5;A
+238059;Alfa Romeo GIULIETTA 1.6 JTDM 120CV Progression M1-AF E6b;Berlinas-Familiares Medios;Gasóleo;1.598 cm3;M;1.815;120 cv;88 kw;0 kw;0 kms;3,90;0,00;103 g CO2/km;0 g CO2/km;4.351 x 1.798 x 1.465 mm;5;A
+238062;Alfa Romeo GIULIETTA 1.6 JTDM 120CV Sprint E6b;Berlinas-Familiares Medios;Gasóleo;1.598 cm3;M;1.815;120 cv;88 kw;0 kw;0 kms;3,90;0,00;103 g CO2/km;0 g CO2/km;4.351 x 1.798 x 1.465 mm;5;A
+238063;Alfa Romeo GIULIETTA 1.6 JTDM 120CV Sprint M1-AF E6b;Berlinas-Familiares Medios;Gasóleo;1.598 cm3;M;1.815;120 cv;88 kw;0 kw;0 kms;3,90;0,00;103 g CO2/km;0 g CO2/km;4.351 x 1.798 x 1.465 mm;5;A
+21940;Alfa Romeo GIULIETTA 1.7 TBi 235CV QUADRIFOGLIO VERDE;Berlinas-Familiares Medios;Gasolina;1.742 cm3;M;1.820;235 cv;173 kw;0 kw;789 kms;7,60;0,00;177 g CO2/km;0 g CO2/km;4.351 x 1.798 x 1.465 mm;5;E
+188367;Alfa Romeo GIULIETTA 1.7 TBi 240CV TCT QUADRIFOGLIO VERDE;Berlinas-Familiares Medios;Gasolina;1.742 cm3;A;1.820;326 cv;240 kw;0 kw;0 kms;7,00;0,00;162 g CO2/km;0 g CO2/km;4.351 x 1.798 x 1.465 mm;5;D
+21943;Alfa Romeo GIULIETTA 2.0 JTDM 140CV DISTINCTIVE;Berlinas-Familiares Medios;Gasóleo;1.956 cm3;M;1.820;140 cv;103 kw;0 kw;1.333 kms;4,50;0,00;119 g CO2/km;0 g CO2/km;4.351 x 1.798 x 1.465 mm;5;B
+55034;Alfa Romeo GIULIETTA 2.0 JTDM 140CV DISTINCTIVE M1-AF;Berlinas-Familiares Medios;Gasóleo;1.956 cm3;M;1.820;140 cv;103 kw;0 kw;0 kms;4,50;0,00;119 g CO2/km;0 g CO2/km;4.351 x 1.798 x 1.465 mm;5;B
+28146;Alfa Romeo GIULIETTA 2.0 JTDM 140CV PROGRESSION;Berlinas-Familiares Medios;Gasóleo;1.956 cm3;M;1.820;140 cv;103 kw;0 kw;1.333 kms;4,50;0,00;119 g CO2/km;0 g CO2/km;4.351 x 1.798 x 1.465 mm;5;B
+41840;Alfa Romeo GIULIETTA 2.0 JTDM 140CV VELOCE;Berlinas-Familiares Medios;Gasóleo;1.956 cm3;M;1.820;140 cv;103 kw;0 kw;0 kms;4,50;0,00;119 g CO2/km;0 g CO2/km;4.351 x 1.798 x 1.465 mm;5;B
+48722;Alfa Romeo GIULIETTA 2.0 JTDM 140CV VELOCE AF;Berlinas-Familiares Medios;Gasóleo;1.956 cm3;M;1.820;140 cv;103 kw;0 kw;0 kms;4,50;0,00;119 g CO2/km;0 g CO2/km;4.351 x 1.798 x 1.465 mm;5;B
+46117;Alfa Romeo GIULIETTA 2.0 JTDM 150CV DISTINCTIVE Serie-1;Berlinas-Familiares Medios;Gasóleo;1.956 cm3;M;1.820;140 cv;103 kw;0 kw;0 kms;4,20;0,00;110 g CO2/km;0 g CO2/km;4.351 x 1.798 x 1.465 mm;5;B
