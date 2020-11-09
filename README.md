@@ -1,7 +1,7 @@
 # IDAE Scraper
 ## Descripción
 
-Practica realizada para la asignatura _Tipología y ciclo de vida de los datos_ perteneciente al Maáster en Ciencia de Datos de la UOC. 
+Practica realizada para la asignatura _Tipología y ciclo de vida de los datos_ perteneciente al Máster en Ciencia de Datos de la UOC. 
 En esta se aplican tecnicas de _web scraping_ en Python (y una pequeña parte en Javascript) para **extraer la información almacenada en la web del IDAE** (Instituto para la Diversificación y Ahorro de la Energia de España) **referente a todos los vehículos registrados**.
 
 ## Miembros del equipo
